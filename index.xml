@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blitzscorer</title>
-    <link>http://humphrey.io/blitscorer/</link>
+    <link>https://humphrey.github.io/blitscorer/</link>
     <description>Recent content on Blitzscorer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <atom:link href="http://humphrey.io/blitscorer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://humphrey.github.io/blitscorer/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
